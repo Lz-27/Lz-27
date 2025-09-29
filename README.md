@@ -1,6 +1,6 @@
-# 👾 Crypt0xDev
+# 👾 Lz-27
 
-🎓 Estudiante de Ingeniería de Sistemas - UNSM | 🔐 Cybersecurity Enthusiast | � Programming Lover
+🎓 Estudiante de Ingeniería de Sistemas - UNSM | 🔐 Programmer Enthusiast | � Programming Lover
 
 ¡Hola! Soy un estudiante apasionado por la ciberseguridad y la programación. En este espacio comparto mi journey de aprendizaje, proyectos personales y experimentos técnicos enfocados en hacking ético, desarrollo seguro y tecnologías emergentes.
 
