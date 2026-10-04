@@ -1,163 +1,75 @@
-# 👾 Lz-27
-
-🎓 Estudiante de Ingeniería de Sistemas - UNSM | 🔐 Programmer Enthusiast | � Programming Lover
-
-¡Hola! Soy un estudiante apasionado por la ciberseguridad y la programación. En este espacio comparto mi journey de aprendizaje, proyectos personales y experimentos técnicos enfocados en hacking ético, desarrollo seguro y tecnologías emergentes.
-
-> 🚀 **En constante aprendizaje** | 🔍 **Explorando nuevas tecnologías** | 🛡️ **Construyendo un futuro más seguro**
-
----
-
-## 🧰 Tech Stack
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
-
-### DevOps & Virtualization
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### Security Tools
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white)
-
-- 🐧 **OS & Virtualization**: KVM, QEMU, systemd, Proxmox, libvirt
-- 🔐 **Pentesting**: Nmap, Burp Suite, Wireshark, Metasploit
-- 🧱 **DevOps**: Docker, Podman, Ansible, GitHub Actions
-- ⚙️ **Infrastructure**: cloud-init, Terraform
-- 🔒 **Security**: GPG, OpenSSL, SSH hardening, firewall tuning
-
----
-
-## 📊 GitHub Analytics
-
 <div align="center">
+  <h1>Hola, soy Luis Adrian 👋</h1>
+  <h3>Estudiante de Ingeniería de Sistemas e Informática (UNSM) | Backend, Data & Hardware Enthusiast</h3>
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lz-27&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lz-27&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lz-27&theme=radical&show_icons=true&hide_border=true&layout=compact)
-
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Desarrollador+Python+%26+Java;Apasionado+por+Computer+Vision+%26+Arduino;Rumbo+a+la+Hackathon+UNI+2027;Construyendo+soluciones+para+la+Amazon%C3%ADa" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🧪 Projects
+Desde la selva peruana, combino el desarrollo de software, la automatización y el hardware para crear soluciones integrales. Actualmente me enfoco en la arquitectura backend, el análisis de datos, la visión computacional y la integración de sistemas físicos con microcontroladores. 
 
-### 🎮 [`tres-en-raya`](https://github.com/Crypt0xDev/tres-en-raya)
-Implementación del clásico juego Tic-Tac-Toe (Tres en Raya) desarrollado como ejercicio de programación. Enfocado en lógica de juego limpia, interfaz intuitiva y mejores prácticas de desarrollo.
+Siempre busco optimizar procesos: desde automatizar la organización de archivos de la universidad hasta controlar circuitos electrónicos mediante el seguimiento ocular.
 
-**Características:**
-- 🎯 Lógica de juego optimizada
-- 🖥️ Interfaz de usuario responsive 
-- 🏆 Sistema de puntuación
-- 🔄 Reinicio de partidas
-- 📱 Compatibilidad multiplataforma
+> 🚀 **Objetivo actual:** Preparación técnica para la Hackathon UNI 2027 y certificaciones de redes Cisco.  
+> 🌱 **Construyendo:** Plataforma Full-Stack de monitoreo ambiental para detectar la deforestación usando FastAPI, React, Drones y Arduino.
 
 ---
 
-### 🚧 Proyectos en Desarrollo
-
-> � **crypt0x-lab** - Laboratorio de seguridad modular *(Próximamente)*  
-> 🛠️ **security-toolkit** - Herramientas de pentesting personalizadas *(En planificación)*  
-> � **vulnerability-scanner** - Scanner automatizado de vulnerabilidades *(Concepto)*
-
----
-
-## 📚 Research Interests
-
-- 🧬 **Kernel Engineering**: Tuning & OS internals optimization
-- 🔍 **Binary Analysis**: Reverse engineering & exploitation techniques  
-- 📦 **Container Security**: Sandboxing & runtime protection
-- 🛡️ **IAM Systems**: Identity & access management architecture
-- 🌐 **Network Security**: Protocol analysis & traffic inspection
-- ⚡ **Performance**: Low-level optimization & system efficiency
-
----
-
-## 🏆 Certification Journey
-
-```
-🎯 Target Certifications (In Progress):
-├── 🎯 OSCP - Offensive Security Certified Professional
-├── � eJPT - eLearnSecurity Junior Penetration Tester  
-└── 🔍 WJPT - Windows Junior Penetration Tester
-
-📚 Learning Path:
-├── 📖 Practical penetration testing methodologies
-├── � Advanced Linux exploitation techniques
-├── 🪟 Windows privilege escalation & lateral movement
-└── 🛠️ Custom tool development for security testing
-
-🎓 Academic Journey:
-├── �️ Universidad Nacional de San Martín (UNSM)
-├── 💻 Ingeniería de Sistemas - En Curso
-├── 🔐 Especialización en Ciberseguridad
-└── 📚 Autodidacta en Ethical Hacking
-```
-
----
-
-## 🎯 Mis Pasiones & Objetivos
-
-### 💡 Como Estudiante
-- 🎓 **Formación Académica**: Construyendo bases sólidas en ingeniería de sistemas
-- 📚 **Aprendizaje Continuo**: Siempre explorando nuevas tecnologías y metodologías
-- 🤝 **Colaboración**: Buscando oportunidades para aprender de la comunidad
-- 🏆 **Retos**: Participando en CTFs y desafíos de programación
-
-### 🔐 Como Cybersecurity Enthusiast
-- 🛡️ **Ethical Hacking**: Comprometido con la seguridad responsable
-- 🔍 **Research**: Investigando vulnerabilidades y técnicas de defensa
-- 🧪 **Labs**: Creando entornos de práctica y experimentación
-- 📖 **Knowledge Sharing**: Documentando y compartiendo aprendizajes
-
-### 💻 Como Programming Lover
-- 🚀 **Clean Code**: Enfoque en escribir código limpio y mantenible
-- 🔧 **Problem Solving**: Disfrutando cada desafío de programación
-- 🌱 **Growth**: En constante mejora de habilidades técnicas
-- 🎨 **Innovation**: Buscando soluciones creativas a problemas complejos
-
----
-
-## 📫 Connect & Collaborate
+## 🧰 Tech Stack & Herramientas
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Crypt0xDev)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Crypt0xDev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![ProtonMail](https://img.shields.io/badge/-ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:crypt0xdev@protonmail.com)
+### Lenguajes Principales
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Librerías
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### Hardware, Redes & DevOps
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![N8N](https://img.shields.io/badge/n8n-FF6D5W?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-### 🌐 Let's Connect!
-- 🎓 **Student Status**: Universidad Nacional de San Martín (UNSM)
-- � **Learning Journey**: Siempre abierto a mentoría y consejos
-- 🤝 **Collaboration**: Interesado en proyectos de aprendizaje y research
-- � **Knowledge Exchange**: Compartamos experiencias y conocimientos
-- 🎯 **Open Source**: Contribuyendo y aprendiendo de la comunidad
+---
 
-> 💬 **¡No dudes en contactarme!** Siempre dispuesto a aprender, colaborar y hacer networking con fellow developers y security enthusiasts.
+## 🧪 Proyectos Destacados
+
+| Proyecto | Descripción | Tecnologías |
+| :--- | :--- | :--- |
+| **Zona Fit** | Aplicación backend de escritorio para la gestión integral de centros de fitness, con arquitectura robusta. | `Java`, `Spring Boot`, `MySQL`, `Lombok` |
+| **Analizador de Exámenes UNSM** | Interfaz gráfica para extraer, analizar y convertir resultados de exámenes de admisión desde PDFs a Excel/SQLite. | `Python`, `PyQt6`, `Pandas`, `pdfplumber` |
+| **Vision-Controlled Hardware** | Integración de seguimiento ocular y de manos en tiempo real para controlar LEDs físicos y circuitos. | `Python`, `OpenCV`, `PyFirmata2`, `Arduino` |
+| **Academic Folder Organizer** | Herramienta de automatización que genera estructuras de directorios por ciclo, curso, unidad y semana académica. | `Python`, `PyQt6`, `Pathlib` |
+| **Bluetooth RC Car** | Vehículo robótico controlado por Bluetooth con capacidades de detección de obstáculos mediante sensores ultrasónicos. | `C/C++`, `Arduino`, `L298N`, `HC-05` |
 
 ---
 
-> > "Every line of code is a step forward. Every vulnerability found is a lesson learned. Every day is an opportunity to grow."
-> 
-> **- Un estudiante apasionado por la ciberseguridad y la programación** 🚀
-<br>
+## 📊 Estadísticas de GitHub
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lz-27&theme=radical&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lz-27&theme=radical&hide_border=true" width="48%" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lz-27&theme=radical&show_icons=true&hide_border=true&layout=compact" width="50%" />
+</div>
 
------
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+---
 
-Last Edited on: 04/09/2021
+## 📚 Roadmap & Áreas de Investigación
+
+```text
+2026 ── Desarrollo de Software (Python/Java), Interfaces (PyQt6), y Robótica Básica (Arduino).
+2027 ── Data Science, Machine Learning, Visión Computacional e Inteligencia Artificial.
+2028 ── Redes (Cisco), Sistemas Operativos y Ciberseguridad.
