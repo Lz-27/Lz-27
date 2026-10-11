@@ -15,7 +15,7 @@
 ### 💻 Tech Stack & Tools
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,react,tailwind,bootstrap,nodejs,spring,fastapi,mysql,postgres,sqlite,linux,kali,aws,docker,arduino,postman,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,react,java,fastapi,aws,kali,docker,linux,git,postgres,html,css,js,ts,tailwind,bootstrap,nodejs,spring,mysql,sqlite,arduino,postman,github&perline=8" />
 </a>
 
 </div>
